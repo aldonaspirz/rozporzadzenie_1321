@@ -11,6 +11,7 @@ Welcome Project Name's documentation!
    :caption: Contents:
 
    intro
+   part_m
 
 .. raw:: latex
 
